@@ -1,5 +1,5 @@
 # Crypto Mini Project on: Elliptic Curve Integrated Encrypted Scheme (ECIES) with AES
-This Mini Project is the result of collective work by our group of three. I would like to thank **Yassine Sabir**, **Chayma Hayar** and myself for their motivation and dedication to this project. We would like to express our sincere gratitude to Mr. **BELKASMI Mostafa** and Mr. **EL GAABOURI Ismail** for their exceptional supervision and guidance throughout this project.
+This Mini Project is the result of collective work by our group of three. I would like to thank **Yassine Sabir**, **Chaima Hayar** and myself for their motivation and dedication to this project. We would like to express our sincere gratitude to Mr. **BELKASMI Mostafa** and Mr. **EL GAABOURI Ismail** for their exceptional supervision and guidance throughout this project.
 
 ## Installation 
 Clone the Repo
